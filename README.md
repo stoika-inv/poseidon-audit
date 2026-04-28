@@ -36,4 +36,4 @@ Educational analytics tool. Not investment advice. Past performance does not gua
 | Date | NAV | Days live | Open | Closed | Frozen commit |
 |---|---|---|---|---|---|
 | 2026-04-26 | 1.0801 | 7 | 10 | 0 | `d26b89bad914` |
-| 2026-04-28 | 1.0616 | 9 | 10 | 0 | `f3d5a67ab29a` |
+| 2026-04-28 | 1.0287 | 9 | 10 | 0 | `f3d5a67ab29a` |
