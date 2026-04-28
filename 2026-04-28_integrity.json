@@ -1,6 +1,6 @@
 {
   "date": "2026-04-28",
-  "git_commit": "3e87fb914e8cafc9b7bdfec755e59f95bb658e26",
+  "git_commit": "f3d5a67ab29ab82a05b5ac4600570de78a460b87",
   "frozen_files": {
     "poseidon_strategy.py": "499598920accd6c24c5d6a3269f086bf715f5d75410a1ad6693d5caf89d23427",
     "poseidon_core.py": "28081f33d3c3436c824403b195a23d9eff47bb5a348f80ef04f774e36ef3dc2e",
