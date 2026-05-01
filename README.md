@@ -39,3 +39,4 @@ Educational analytics tool. Not investment advice. Past performance does not gua
 | 2026-04-28 | 1.0287 | 9 | 10 | 0 | `f3d5a67ab29a` |
 | 2026-04-29 | 1.0278 | 10 | 10 | 0 | `4c2bcc510e67` |
 | 2026-04-30 | 1.0213 | 11 | 10 | 0 | `4c2bcc510e67` |
+| 2026-05-01 | 1.0484 | 12 | 10 | 0 | `4c2bcc510e67` |
