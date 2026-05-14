@@ -1,0 +1,27 @@
+{
+  "generated_at": "2026-05-14T22:10:55.527576",
+  "paper_start_date": "2026-04-19",
+  "days_live": 25,
+  "years_live": 0.0685,
+  "n_open_positions": 10,
+  "n_closed_positions": 0,
+  "live_performance": {
+    "nav": 1.1529,
+    "total_return_pct": 15.2918,
+    "annualized_pct": 698.47
+  },
+  "backtest_reference": {
+    "cagr_pct": 38.58,
+    "sharpe": 1.21,
+    "max_dd_pct": -29.76,
+    "live_expected_cagr_low": 26,
+    "live_expected_cagr_high": 29,
+    "live_expected_sharpe_low": 0.8,
+    "live_expected_sharpe_high": 0.92,
+    "haircut_method": "Harvey-Liu 2015 + 7 factor models, discount 0.85"
+  },
+  "drift": {
+    "status": "TOO_EARLY",
+    "interpretation": "Forward paper just started. Need >=90 days for meaningful comparison."
+  }
+}
