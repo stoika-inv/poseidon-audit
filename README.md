@@ -96,3 +96,4 @@ Educational analytics tool. Not investment advice. Past performance does not gua
 | 2026-06-25 | 1.4567 | 67 | 10 | 0 | `de224a77fc35` |
 | 2026-06-26 | 1.4293 | 68 | 10 | 0 | `de224a77fc35` |
 | 2026-06-27 | 1.4145 | 69 | 10 | 0 | `de224a77fc35` |
+| 2026-06-28 | 1.3264 | 70 | 10 | 0 | `de224a77fc35` |
