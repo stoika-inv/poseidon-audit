@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-09-14T10:11:06.273560",
+  "generated_at": "2026-09-14T21:10:20.315225",
   "paper_start_date": "2026-04-19",
   "days_live": 148,
   "years_live": 0.4055,
   "n_open_positions": 10,
   "n_closed_positions": 0,
   "live_performance": {
-    "nav": 1.0979,
-    "total_return_pct": 9.7935,
-    "annualized_pct": 25.91
+    "nav": 1.0516,
+    "total_return_pct": 5.1645,
+    "annualized_pct": 13.22
   },
   "backtest_reference": {
     "cagr_pct": 38.58,
