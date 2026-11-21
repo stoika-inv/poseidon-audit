@@ -238,3 +238,4 @@ Educational analytics tool. Not investment advice. Past performance does not gua
 | 2026-11-18 | 0.826 | 213 | 0 | 0 | `ee1797573617` |
 | 2026-11-19 | 0.826 | 214 | 0 | 0 | `ee1797573617` |
 | 2026-11-20 | 0.826 | 215 | 0 | 0 | `ee1797573617` |
+| 2026-11-21 | 0.826 | 216 | 0 | 0 | `ee1797573617` |
